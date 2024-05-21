@@ -1,0 +1,323 @@
+Ceva
+Altceva
+Clientul Leu.Catalin a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul a vizualizat date personale
+Clientul Leu.Catalin a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Utilizatorul vrea sa creeze raport laptop
+Clientul a trimis catre bd raport de laptop
+Clientul vrea sa vizualizeze date personale
+Clientul vrae sa vada daca este alocat la masa
+Comandantul de companie vrea sa modifice sectoare:(
+Comandantul de companie vrea sa modifice sectoare:(
+Comandantul de companie vrea sa modifice sectoare:(
+Clientul s-a deconectat
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul a vizualizat date personale
+Clientul vrea sa vizualizeze date personale
+Clientul vrea sa vizualizeze date personale
+Clientul s-a deconectat
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul s-a deconectat
+Clientul Pontos.Alexandru a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul Leu.Catalin a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul vrea sa vizualizeze date personale
+Comandantul de companie vrea sa modifice sectoare:(
+Clientul a vizualizat date personale
+Clientul a vizualizat date personale
+Clientul a vizualizat date personale
+Clientul s-a deconectat
+Clientul Leu.Catalin a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul vrea sa vizualizeze date personale
+Clientul vrae sa vada daca este alocat la masa
+Utilizatorul vrea sa creeze raport permisie
+Clientul a trimis catre bd raport de permisie
+Clientul vrea sa vizualizeze date personale
+Clientul vrea sa vizualizeze date personale
+Utilizatorul vrea sa creeze raport dezcazarmare
+Clientul a vizualizat date personale
+Clientul vrea sa vizualizeze date personale
+Utilizatorul vrea sa creeze raport laptop
+Clientul a trimis catre bd raport de laptop
+Clientul vrea sa vizualizeze date personale
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul a vizualizat date personale
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie vrea sa modifice sectoare:(
+Comandantul de companie vrea sa modifice sectoare:(
+Comandantul de companie a verificat sectoarele!
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Leu.Catalin a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul a vizualizat date personale
+Clientul Leu.Catalin a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul vrae sa vada daca este alocat la masa
+Clientul a vizualizat date personale
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Borcila.Vasile a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Utilizatorul vrea sa creeze raport invoire
+Clientul a trimis catre bd raport de permisie
+Clientul Borcila.Vasile a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Utilizatorul vrea sa creeze raport invoire
+Clientul a trimis catre bd raport de permisie
+Clientul Borcila.Vasile a incercat sa se conecteze la server
+Clientul a esuat in logare la server
+Username sau parola incorecta!
+Clientul s-a deconectat
+Clientul Borcila.Vasile a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Utilizatorul vrea sa creeze raport invoire
+Clientul a trimis catre bd raport de invoire
+Clientul vrea sa vizualizeze date personale
+Utilizatorul vrea sa creeze raport laptop
+Clientul a trimis catre bd raport de laptop
+Clientul vrea sa vizualizeze date personale
+Clientul a vizualizat date personale
+Clientul vrae sa vada daca este alocat la masa
+Clientul s-a deconectat
+Clientul Borcila.Vasile a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Utilizatorul vrea sa creeze raport invoire
+Clientul a trimis catre bd raport de invoire
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie a verificat sectoarele!
+Clientul Aionesei.Marian a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul a vizualizat date personale
+Utilizatorul vrea sa creeze raport invoire
+Clientul a trimis catre bd raport de invoire
+Utilizatorul vrea sa creeze raport permisie
+Clientul a trimis catre bd raport de permisie
+Utilizatorul vrea sa creeze raport deplasare
+Clientul a trimis catre bd raport de deplasare
+Utilizatorul vrea sa creeze raport permisie
+Clientul a trimis catre bd raport de permisie
+Clientul Aionesei.Marian a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator student logat cu succes!
+Clientul a vizualizat date personale
+Clientul vrea sa vizualizeze date personale
+Utilizatorul vrea sa creeze raport permisie
+Clientul a trimis catre bd raport de dezcazarmare
+Utilizatorul vrea sa creeze raport laptop
+Clientul a trimis catre bd raport de laptop
+Clientul vrea sa vizualizeze date personale
+Utilizatorul vrea sa creeze raport laptop
+Clientul a trimis catre bd raport de laptop
+Utilizatorul vrea sa creeze raport laptop
+Clientul a trimis catre bd raport de laptop
+Clientul vrea sa vizualizeze date personale
+Utilizatorul vrea sa creeze raport laptop
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Comandantul de companie a verificat sectoarele!
+Comandantul de companie vrea sa modifice sectoare:(
+Clientul s-a deconectat
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul Almasanu.Mihai a incercat sa se conecteze la server
+Clientul s-a logat cu succes
+Utilizator comandant_companie logat cu succes!
+Clientul intentioneaza sa aprobe/neaprobe rapoarte
+Clientul s-a deconectat
