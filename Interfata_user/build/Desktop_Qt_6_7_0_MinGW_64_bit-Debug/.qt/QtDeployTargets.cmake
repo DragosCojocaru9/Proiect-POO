@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_DocumenteBatalionApp_FILE C:/Users/ThinkPad/Documents/Interfata_user/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/DocumenteBatalionApp.exe)
+set(__QT_DEPLOY_TARGET_DocumenteBatalionApp_RUNTIME_DLLS C:/Qt/6.7.0/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Sql.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Network.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.7.0/mingw_64/bin/Qt6Core.dll)
